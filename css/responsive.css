@@ -1,0 +1,1021 @@
+@media (max-width: 320px) {
+  body {
+    overflow-x: hidden;
+  }
+  .container {
+    width: auto;
+    margin: 0 auto;
+  }
+  .navbar {
+    width: 100%;
+  }
+  .navbar-brand {
+    width: auto;
+    padding-right: 110px;
+  }
+  #navbarSupportedContent {
+    width: auto;
+  }
+  .navbar-brand img {
+    width: auto;
+  }
+  .navbar-toggler-icon {
+    color: #fff;
+  }
+  ul li:hover .subMenu {
+    width: auto;
+    left: 90px;
+  }
+  #offcanvasExample {
+    width: auto;
+  }
+  #banner {
+    width: auto;
+    padding-bottom: 124px;
+  }
+
+  /* COUNTER START */
+
+  #counter {
+    width: auto;
+    padding: 100px 0;
+  }
+
+  .banner-details {
+    width: auto;
+  }
+  .banner-details h1 {
+    font-size: 25px;
+    line-height: 45px;
+    width: auto;
+  }
+  .banner-details p {
+    width: auto;
+    font-size: 13px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .app_button {
+    width: auto;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  button.b-1 {
+    margin-bottom: 20px;
+  }
+  button.b-2 {
+    margin-left: 0px;
+    padding: 12px 35px;
+  }
+  #counter::after {
+    width: auto;
+    display: none;
+  }
+  .counter-details h3 {
+    width: auto;
+    font-size: 50px;
+  }
+  .counter-details p {
+    width: auto;
+    font-size: 23px;
+    text-align: center;
+  }
+  li.nav-item {
+    margin-right: 120px;
+  }
+  ul .subMenu {
+    position: absolute;
+    top: 150px;
+    left: 0px;
+  }
+  .subMenu li a:hover {
+    padding-left: 47px;
+  }
+  /* COUNTER START */
+
+  /* CHOOSE STARTS */
+  #choose {
+    padding: 0px;
+  }
+  .single-left {
+    width: auto;
+    padding-left: 0px;
+  }
+  .single-item {
+    width: auto;
+    padding: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+  }
+
+  .right {
+    width: auto;
+    padding-top: 40px;
+  }
+  .right h1 {
+    width: auto;
+    font-size: 23px;
+    text-align: center;
+  }
+  .right p {
+    width: auto;
+    font-size: 13px;
+    text-align: center;
+  }
+  /* CHOOSE ENDS */
+
+  /* TECHNOLOGY STARTS */
+
+  #technology {
+    width: auto;
+    overflow-x: hidden;
+  }
+  .software:hover p {
+    /* width: auto; */
+    font-size: 13px;
+    padding: 20px 10px;
+  }
+  .tech-tit h1 {
+    width: auto;
+    text-align: center;
+    font-size: 23px;
+  }
+  .tech-tit p {
+    width: auto;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .web {
+    width: auto;
+    margin: 0 auto;
+  }
+  .web:hover p {
+    width: auto;
+  }
+  h1.tit {
+    width: auto;
+    font-size: 23px;
+  }
+  .web:hover h1.tit {
+    width: auto;
+  }
+  .web p {
+    width: auto;
+    font-size: 13px;
+  }
+  .software {
+    width: auto;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+  .software:hover {
+    width: 92%;
+    padding: 0px 15px;
+  }
+  .soft-tit {
+    width: auto;
+    font-size: 23px;
+  }
+  .software p {
+    width: auto;
+    font-size: 13px;
+    padding: 15px 10px;
+  }
+  .c-d-2 {
+    border: none;
+  }
+  .counter-details {
+    width: auto;
+    padding-bottom: 40px;
+  }
+  #choose::after {
+    width: auto;
+  }
+
+  .single-item:hover {
+    width: auto;
+  }
+  .circle {
+    margin-left: 10px;
+  }
+  .circle::after {
+    left: 10px;
+  }
+  .single-item p {
+    width: auto;
+    font-size: 13px;
+    /* margin-left: 10px; */
+  }
+  .single-items {
+    width: auto;
+    padding: 0px;
+    text-align: center;
+  }
+  .single-items p {
+    width: auto;
+    font-size: 13px;
+    /* margin-left: 10px; */
+  }
+  button.tech-btn {
+    width: auto;
+    margin: 0 auto;
+    left: 35%;
+  }
+  button.tech-btn0 {
+    width: auto;
+    margin: 0 auto;
+    left: 35%;
+  }
+  /* TECHNOLOGY ENDS */
+
+  /* SUPPORT ENDS */
+
+  #support {
+    width: auto;
+    margin-bottom: 100px;
+    /* padding: 100px 70px; */
+  }
+  #support::after {
+    width: auto;
+    z-index: -1;
+  }
+  .support-details {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .support-details h1 {
+    font-size: 23px;
+    width: auto;
+  }
+  .support-details p {
+    font-size: 13px;
+    width: auto;
+  }
+  .s-left {
+    width: auto;
+    display: block;
+    text-align: center;
+  }
+  .s-left img {
+    width: auto;
+    margin-bottom: 15px;
+  }
+  .s-details {
+    width: auto;
+    margin-right: 0px;
+  }
+  .s-details h1 {
+    font-size: 23px;
+    width: auto;
+  }
+  .s-details p {
+    font-size: 13px;
+    width: auto;
+  }
+  .right-images {
+    width: auto;
+    text-align: center;
+  }
+  .img_1 img {
+    width: 100%;
+  }
+  .img_1::after {
+    width: 100%;
+    right: 72px;
+    transform: translateX(7px);
+  }
+
+  .img_2 img {
+    width: 100%;
+  }
+
+  /* SUPPORT ENDS */
+
+  /* PLAN ENDS */
+
+  #plan {
+    width: auto;
+    padding: 100px 70px;
+  }
+  h1.plan-tit {
+    width: auto;
+    font-size: 23px;
+    line-height: 30px;
+    margin-bottom: 30px;
+  }
+  .basic {
+    width: auto;
+    margin-bottom: 50px;
+  }
+  .basic img {
+    width: 100%;
+  }
+  .tit_b {
+    width: auto;
+    font-size: 23px;
+  }
+  .basic:hover .tit_b {
+    color: #fff;
+    font-size: 20px;
+    transform: scale(1.1);
+    transition: all linear 0.5s;
+  }
+  .basic_1:hover .tit_b1 {
+    font-size: 20px;
+    transform: scale(1.1);
+    transition: all linear 0.5s;
+  }
+  .basic_1 {
+    width: auto;
+    margin-bottom: 50px;
+  }
+  .tit_b1 {
+    width: auto;
+    font-size: 23px;
+  }
+  .basic_1 img {
+    width: 100%;
+  }
+  .sum span {
+    width: auto;
+    left: 20px;
+  }
+  .sum_1 span {
+    width: auto;
+    left: 20px;
+  }
+  .feature {
+    width: auto;
+    font-size: 13px;
+  }
+  .feature-0 {
+    width: auto;
+    font-size: 13px;
+  }
+  h6.custom {
+    width: auto;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .custom-1 {
+    width: auto;
+    font-size: 13px;
+    line-height: 20px;
+  }
+
+  /* PLAN ENDS */
+
+  /* ABOUT STARTS */
+
+  #about {
+    width: auto;
+    /* padding: 100px 70px; */
+  }
+  .about-tit {
+    width: auto;
+    font-size: 23px;
+  }
+  .review {
+    width: auto;
+    height: 490px;
+  }
+  .review p {
+    width: auto;
+    font-size: 13px;
+    padding: 15px 20px;
+  }
+  .icon {
+    display: none;
+    position: absolute;
+    z-index: 1;
+  }
+  .icon i.icofont-thin-left {
+    left: 16px;
+  }
+  .icon i.icofont-thin-right {
+    position: absolute;
+    top: -490px;
+    left: 291px;
+  }
+  .shape-5 img {
+    width: auto;
+    position: absolute;
+    left: -170px;
+    top: -80px;
+  }
+
+  /* ABOUT ENDS */
+
+  /* PAYMENT STARTS */
+
+  #payment {
+    width: auto;
+    margin: 0 auto;
+    padding: 0px 0px;
+    text-align: center;
+  }
+  .pay1 {
+    width: auto;
+    padding: 0px 0px;
+  }
+  .pay1 img {
+    width: 100%;
+  }
+  .pay2 {
+    width: auto;
+    padding: 0px 0px;
+  }
+  .pay2 img {
+    width: 100%;
+  }
+  .pay3 {
+    width: auto;
+    padding: 0px 0px;
+  }
+  .pay3 img {
+    width: 100%;
+  }
+  .payment-tit h1 {
+    width: auto;
+    font-size: 23pxpx;
+    margin: 0 auto;
+  }
+  .pay-details {
+    padding-top: 80px;
+    width: auto;
+    margin: 0 auto;
+  }
+  .posted {
+    width: auto;
+    text-align: center;
+    line-height: 23pxpx;
+  }
+  .pay-tit h1 {
+    width: auto;
+    font-size: 19px;
+    padding-top: 10px;
+    line-height: 30px;
+    text-align: center;
+  }
+
+  button.tech-btn1 {
+    width: auto;
+  }
+  .pay-tit {
+    text-align: center;
+    padding-bottom: 80px;
+  }
+  .review h1 {
+    width: auto;
+    /* padding-top: 22px; */
+  }
+
+  span.idea {
+    width: auto;
+    font-size: 13px;
+  }
+  /* PAYMENT ENDS */
+
+  /* FOOTER STARTS */
+
+  #footer {
+    width: auto;
+  }
+  .f-left {
+    width: auto;
+    text-align: center;
+  }
+  .f-left p {
+    width: auto;
+    font-size: 13px;
+  }
+  .foot-right {
+    width: auto;
+    display: block !important;
+    text-align: center;
+  }
+  .foot {
+    width: auto;
+    text-align: center;
+    margin-top: 50px;
+  }
+  .s-Links {
+    padding-top: 0px;
+  }
+  ul.Links {
+    margin-left: 0px;
+  }
+  .s-Links .Links li {
+    width: auto;
+    padding-top: 20px;
+  }
+  .s-Links .Links li a {
+    font-size: 16px;
+  }
+  .policy {
+    width: auto;
+    margin: 0 auto;
+    display: block !important;
+    text-align: center;
+  }
+  .policy h5 {
+    font-size: 16px;
+  }
+  .policy a {
+    font-size: 15px;
+    margin-bottom: 8px;
+  }
+  a span {
+    color: cadetblue;
+    margin-right: 8px;
+    margin-left: 8px;
+  }
+  .thought {
+    width: auto;
+  }
+  .single-items:hover {
+    width: auto;
+  }
+  /* FOOTER ENDS */
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  body {
+    overflow-x: hidden;
+  }
+  #banner {
+    width: auto;
+    padding-bottom: 125;
+  }
+  .banner-details h1 {
+    width: auto;
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .banner-details p {
+    width: auto;
+    font-size: 15px;
+    line-height: 50px;
+    text-align: center;
+  }
+  .c-d-2 {
+    width: auto;
+    border: none;
+    padding-bottom: 50px;
+  }
+  .single-left {
+    width: auto;
+    padding-left: 65px;
+    padding-bottom: 50px;
+  }
+  .single-item {
+    width: auto;
+    padding: 10px 15px 0px 20px;
+  }
+  .single-items {
+    width: auto;
+    padding: 10px 15px 0px 20px;
+  }
+  .right {
+    width: auto;
+    padding-left: 0px;
+    text-align: center;
+  }
+  .right p {
+    width: auto;
+    text-align: center;
+    font-size: 16px;
+  }
+  .tech-tit {
+    width: auto;
+    text-align: center;
+  }
+  .tech-tit h1 {
+    width: auto;
+    text-align: center;
+    font-size: 30px;
+  }
+  .tech-tit p {
+    width: auto;
+    text-align: center;
+    font-size: 13px;
+  }
+  .app_button {
+    width: auto;
+    text-align: center;
+    padding-bottom: 50px;
+  }
+  .web {
+    width: auto;
+    margin: 0 auto;
+  }
+  h1.tit {
+    width: auto;
+    font-size: 20px;
+  }
+  .web:hover h1.tit {
+    width: auto;
+  }
+  .web p {
+    width: auto;
+  }
+  button.tech-btn {
+    margin: 0 auto;
+    width: auto;
+    font-size: 15px;
+    margin-left: 80px;
+  }
+  #support::after {
+    z-index: -1;
+  }
+  .soft-tit {
+    width: auto;
+    font-size: 20px;
+  }
+  .software {
+    width: auto;
+    margin: 0 auto;
+  }
+  .software p {
+    width: auto;
+    font-size: 13px;
+    padding: 10px 18px;
+  }
+  button.tech-btn0 {
+    margin: 0 auto;
+    width: auto;
+    font-size: 15px;
+    margin-left: 80px;
+  }
+  .software:hover p {
+    width: auto;
+    font-size: 13px;
+    padding: 10px 18px;
+  }
+  .s-left {
+    width: auto;
+  }
+  .s-details {
+    width: auto;
+    margin: 0 auto;
+    padding-bottom: 40px;
+  }
+  .support-details h1 {
+    width: auto;
+    font-size: 35px;
+  }
+  .support-details p {
+    width: auto;
+    font-size: 15px;
+  }
+  .s-details h1 {
+    width: auto;
+    font-size: 25px;
+    text-align: center;
+  }
+  .s-details p {
+    width: auto;
+    font-size: 15px;
+    margin-left: 30px;
+  }
+  .right-images {
+    width: auto;
+  }
+  #plan {
+    width: auto;
+  }
+  h1.plan-tit {
+    width: auto;
+    margin: 0 auto;
+    font-size: 35px;
+    padding-bottom: 50px;
+  }
+  .basic {
+    margin: 0 auto;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  .basic_1 {
+    margin: 0 auto;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  /* .sum span {
+    left: 195px;
+  }
+  .sum_1 span {
+    left: 195px;
+  } */
+  .about-tit {
+    width: auto;
+    font-size: 30px;
+  }
+  .review p {
+    width: auto;
+    font-size: 15px;
+    text-align: center;
+  }
+  .icon {
+    position: absolute;
+    z-index: 1;
+  }
+  .icon i.icofont-thin-left {
+    position: absolute;
+    top: 0;
+    left: -30px;
+    z-index: 9999;
+  }
+  .icon i.icofont-thin-right {
+    position: absolute;
+    top: -460px;
+    left: 545px;
+  }
+  #payment {
+    width: auto;
+    margin: 0 auto;
+    padding: 0px 0px;
+  }
+  .shape-5 img {
+    position: absolute;
+    top: 100%;
+    left: -16%;
+    transform: translate(0%, 610px);
+  }
+  .payment-tit h1 {
+    width: auto;
+    font-size: 35px;
+    text-align: center;
+    margin: 0px 0px;
+  }
+  .pay1 {
+    width: auto;
+    text-align: center;
+    padding: 0px 0px;
+  }
+  .pay2 {
+    width: auto;
+    text-align: center;
+    padding: 0px 0px;
+  }
+  .pay3 {
+    width: auto;
+    text-align: center;
+    margin-bottom: 150px;
+    padding: 0px 0px;
+  }
+  .pay-details {
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
+  }
+  #footer {
+    width: auto;
+  }
+  .f-left {
+    width: auto;
+    text-align: center;
+  }
+  .f-left p {
+    width: auto;
+    text-align: center;
+  }
+  .foot {
+    width: auto;
+    text-align: center;
+  }
+  .s-Links .Links li a {
+    width: auto;
+    font-size: 18px;
+  }
+  .policy {
+    width: auto;
+    text-align: center;
+  }
+  .policy h5 {
+    width: auto;
+    text-align: center;
+    font-size: 15px;
+  }
+  .policy a {
+    width: auto;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-bottom: 8px;
+  }
+  a span {
+    margin-right: 25px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #banner {
+    width: auto;
+    /* padding-bottom: 125px; */
+  }
+  .banner-details h1 {
+    width: auto;
+    font-size: 45px;
+    text-align: center;
+    line-height: 55px;
+  }
+  .banner-details p {
+    width: auto;
+    font-size: 18px;
+    text-align: center;
+    line-height: 35px;
+    margin-bottom: 50px;
+  }
+  .c-d-2 {
+    width: auto;
+    border: none;
+    padding-bottom: 50px;
+  }
+  .counter-details p {
+    width: auto;
+    font-size: 30px;
+  }
+  #choose {
+    width: auto;
+    text-align: center;
+  }
+  .right {
+    width: auto;
+    padding-top: 50px;
+  }
+  .right p {
+    width: auto;
+    text-align: center;
+    font-size: 17px;
+  }
+  /* .app_button {
+    width: auto;
+    text-align: center;
+  } */
+  #technology {
+    width: auto;
+    text-align: center;
+  }
+  .tech-tit p {
+    width: auto;
+    font-size: 17px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .web {
+    width: auto;
+    text-align: center;
+  }
+  .software {
+    width: auto;
+    margin-top: 50px;
+    text-align: center;
+  }
+  .software img {
+    width: auto;
+    margin-left: 0px;
+  }
+  button.tech-btn {
+    width: auto;
+    margin: 0 auto;
+  }
+  button.tech-btn0 {
+    width: auto;
+    margin: 0 auto;
+  }
+  .software p {
+    font-size: 13px;
+    text-align: center;
+  }
+  p.media {
+    font-size: 13px;
+    text-align: center;
+  }
+  #support {
+    width: auto;
+  }
+  .support-details {
+    padding-bottom: 50px;
+  }
+  .s-left {
+    width: auto;
+  }
+  .s-details {
+    width: auto;
+    margin: 0 auto;
+    padding-left: 15px;
+  }
+  .s-details h1 {
+    width: auto;
+    font-size: 20px;
+  }
+  .s-details p {
+    width: auto;
+    font-size: 14px;
+  }
+  .right-images {
+    width: auto;
+    /* margin-right: -90px; */
+  }
+  .img_1 {
+    width: auto;
+    /* padding-left: 135px; */
+  }
+  .img_2 {
+    width: auto;
+    /* padding-left: 20px; */
+  }
+  .img_2 img {
+    width: auto;
+    /* padding-left: 20px; */
+  }
+  #support::after {
+    width: auto;
+    z-index: -1;
+  }
+  .basic {
+    margin: 0 auto;
+  }
+  .basic_1 {
+    margin: 30px auto;
+  }
+  .feature-0 {
+    margin: 0 auto;
+  }
+  #about {
+    width: auto;
+  }
+  .about-tit {
+    width: auto;
+    font-size: 35px;
+  }
+  .icon {
+    position: relative;
+    z-index: 999;
+  }
+  .icon i.icofont-thin-left {
+    position: absolute;
+    top: 0;
+    left: -30px;
+    z-index: 9999;
+  }
+  .icon i.icofont-thin-right {
+    position: absolute;
+    top: -475px;
+    left: 100%;
+    transform: translate(15%, 0%);
+  }
+  .review {
+    width: auto;
+  }
+  .review p {
+    width: auto;
+    font-size: 20px;
+    padding: 10px 20px;
+  }
+  #payment {
+    width: auto;
+    text-align: center;
+  }
+  .payment-tit h1 {
+    width: auto;
+    margin: 0 auto;
+  }
+  .pay-details {
+    width: auto;
+    margin-left: 0px;
+    padding-top: 180px;
+  }
+  .pay-tit {
+    width: auto;
+  }
+  .posted {
+    width: auto;
+  }
+  body {
+    overflow-x: hidden;
+  }
+  .shape-5 img {
+    position: absolute;
+    top: 100%;
+    left: -30%;
+    transform: translate(0%, 778px);
+  }
+  .pay-tit h1 {
+    width: auto;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 0px;
+  }
+  .f-left {
+    width: auto;
+    text-align: center;
+  }
+  .f-left p {
+    width: auto;
+    text-align: center;
+  }
+  #payment .container {
+    margin-left: -65px;
+  }
+}
